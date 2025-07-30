@@ -25,13 +25,24 @@ A beautiful and fully functional music player Android app, originally inspired b
 
 ---
 
-## 🚀 How to Run
+## 🚀 HOW TO RUN
 
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Make sure you have permissions enabled for storage (if targeting SDK < 33) or use `MediaStore` for scoped storage.
-4. Run the app on an emulator or physical device.
-5. Enjoy your music! 🎶
+1. Clone this repository:
+```bash
+git clone https://github.com/RishulGupta/Music-Player.git
+```
+3. Open the project in Android Studio.
+
+4. Sync Gradle and install necessary SDK dependencies.
+
+5. Connect your Android device or emulator.
+
+6. Build and run the app.
+
+7. Grant storage permissions as required (or use MediaStore if SDK 33+).
+
+8. Enjoy your music! 🎶
+
 
 ---
 
