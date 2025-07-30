@@ -3,9 +3,9 @@
 A beautiful and fully functional music player Android app, originally inspired by a UI Lover YouTube tutorial. I extended the frontend with backend logic to make it a complete experience — from playing downloaded songs to managing audio playback seamlessly.
 
 <div align="center">
-<img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.22_25a5a81f.jpg" width=300>
-<img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.22_a786ad5c.jpg" width=300 >
-<img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.23_491a00f8.jpg" width=300>
+<img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.22_25a5a81f.jpg" width=250>
+<img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.22_a786ad5c.jpg" width=250 >
+<img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.23_491a00f8.jpg" width=250>
 </div>
 
 ---
@@ -48,9 +48,8 @@ git clone https://github.com/RishulGupta/Music-Player.git
 
 ## 🛠️ Tech Stack
 
-- **Kotlin / Java**
+- **Java**
 - **Android Studio**
-- **MediaPlayer / ExoPlayer API**
 - **Material Design 3**
 - **ViewModel + LiveData**
 - **RecyclerView + Glide** for UI components
