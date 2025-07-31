@@ -1,6 +1,6 @@
 # 🎵 Music Player App
 
-A beautiful and fully functional music player Android app, originally inspired by a UI Lover YouTube tutorial. I extended the frontend with backend logic to make it a complete experience — from playing downloaded songs to managing audio playback seamlessly.
+A beautiful and fully functional music player Android app, originally inspired by a UI Lover YouTube tutorial. I extended the frontend with backend logic to make it a complete experience — from playing downloaded songs to managing audio playback seamlessly
 
 <div align="center">
 <img src="https://github.com/RishulGupta/Music-Player/blob/6c099d7358bcc395420c56aec3a74155370d3aa2/WhatsApp%20Image%202025-07-30%20at%2012.49.22_25a5a81f.jpg" width=250>
